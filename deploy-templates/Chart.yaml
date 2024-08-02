@@ -1,5 +1,5 @@
 apiVersion: v2
-name: echo-server
+name: demo2
 description: A Helm chart for Kubernetes
 home: https://github.com/daniil-nedostup/echo-server
 
